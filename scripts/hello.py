@@ -18,6 +18,8 @@ def main():
 
     # Add your own message here!
     print("I'm interested in using GIS to better understand natural processes, map environmental changes, and analyze geospatial data.")
+    print("Updated in Codespaces")
+
 
 if __name__ == "__main__":
     main()
